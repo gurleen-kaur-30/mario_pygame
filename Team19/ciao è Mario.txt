@@ -1,0 +1,13 @@
+
+>>> Team 19:
+
+	1. Anurag Pendyala (IMT2017504)
+	2. Gurleen Kaur (IMT2017020)
+	3. Anubhav Mishra (IMT2017503)
+
+>>> use the command to play:
+	'python main.py'
+		(after extracting 'mario.tar.gz' inside that directory)
+
+>>> Description in the 'Readme.pdf' inside 'mario.tar.gz'.
+
